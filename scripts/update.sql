@@ -1,0 +1,1 @@
+update usuarios as u set u.login = u.cpf where  u.login is null
