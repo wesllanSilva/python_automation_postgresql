@@ -33,7 +33,7 @@
   <li>Clone este repositório:</li>
 </ol>
 
-<pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git</code></pre>
+<pre><code>git clone https://github.com/wesllanSilva/python_automation_postgresql.git</code></pre>
 
 <ol start="2">
   <li>Personalize o arquivo de configuração <code>config.json</code> com as informações dos seus bancos de dados e as queries a serem executadas.</li>
