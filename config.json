@@ -1,13 +1,18 @@
 {
     "databases": {
-        "SertaozinhoOLD": {
-            "update_queries":["faturamento_diabetico.sql", "procedimento_citopatologico.sql", "procedimento_hipertenso.sql"]
-
-            
+        "database01": {
+            "update_queries": [
+                "update_query1.sql",
+                "update_query2.sql",
+                "update_query3.sql"
+            ]
         },
-        "pindaTeste": {
-            "update_queries":["faturamento_diabetico.sql", "procedimento_citopatologico.sql", "procedimento_hipertenso.sql"]
-            
+        "database02": {
+            "update_queries": [
+                "update_query4.sql",
+                "update_query5.sql",
+                "update_query6.sql"
+            ]
         }
     }
 }
