@@ -37,13 +37,17 @@
 
 <ol start="2">
   <li>Personalize o arquivo de configuração <code>config.json</code> com as informações dos seus bancos de dados e as queries a serem executadas.</li>
-  <li>Execute o script Python <code>main.py</code> para iniciar o processo de atualização e registro de logs.</li>
+  <li>Execute o script Python <code>auto_update_V6.py</code> para iniciar o processo de atualização e registro de logs.</li>
   <li>Opcionalmente, você pode criar um executável usando o PyInstaller para facilitar a distribuição em máquinas Windows:</li>
 </ol>
 
-<pre><code>pyinstaller --onefile main.py</code></pre>
+<pre><code>pyinstaller --onefile auto_update_V6.py</code></pre>
 
 <ol start="5">
+  <li>Será criada a pasta <code>dist</code> com o executável... </li>
+</ol>
+
+<ol start="6">
   <li>Copie o executável gerado para as máquinas Windows onde deseja executá-lo.</li>
 </ol>
 
@@ -58,18 +62,17 @@
 
 <hr>
 
-<h2 align="center">Configuração Avançada</h2>
+<h2 align="center">Configuração</h2>
 
 <p>Você pode personalizar as queries de atualização e os bancos de dados no arquivo <code>config.json</code>. Certifique-se de seguir o formato adequado.</p>
 
 <hr>
 
-<h2 align="center">Licença</h2>
 
-## 📜 License
+<h2 align="center"> 📜 Licença</h2>
 
-O projeto lançado em 2023 sobre a licença [MIT](./LICENSE.txt) ❤️ 
+Projeto lançado em 2023 sobre a licença [MIT](./LICENSE.txt) 
 
-Made with ♥ by Wesllan Silva
+Made with ❤️  by Wesllan Silva
 
 Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
