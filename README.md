@@ -66,8 +66,10 @@
 
 <h2 align="center">Licença</h2>
 
-<p>Este projeto é distribuído sob a <a href="LICENSE">Licença MIT</a>.</p>
+## 📜 License
 
-<hr>
+O projeto lançado em 2023 sobre a licença [MIT](./LICENSE.txt) ❤️ 
 
-<p align="center">Feito com ❤️ por <a href="https://github.com/wesllanSilva">Wesllan Silva</a></p>
+Made with ♥ by Wesllan Silva
+
+Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
